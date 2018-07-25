@@ -8,12 +8,11 @@ import "firebase/firestore";
 import Rebase from "re-base";
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAUGNapN2uE2aIK3ZnPtFQVvPZOaVuh81Q",
-  authDomain: "signaio-ddc14.firebaseapp.com",
-  databaseURL: "https://signaio-ddc14.firebaseio.com",
-  projectId: "signaio-ddc14",
-  storageBucket: "signaio-ddc14.appspot.com",
-  messagingSenderId: "872928783319"
+  apiKey: "YOUR KEY HERE",
+  authDomain: "YOUR DOMAIN HERE",
+  databaseURL: "YOUR URL HERE",
+  projectId: "YOUR ID HERE",
+  storageBucket: "YOUR BUCKET HERE",
 });
 
 firebase.auth().useDeviceLanguage();
