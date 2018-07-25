@@ -253,7 +253,7 @@ class App extends React.Component {
               onClick={this.goToFound}
               style={style}
             >
-              I found it!
+              Found!
             </Button>
 
             <Typography color="inherit" variant="subheading">
@@ -264,7 +264,7 @@ class App extends React.Component {
             </Typography>
             <img
               src={this.state.eventImg || null}
-              style={{ height: "10em", width: "10em" }}
+              style={{ height: "7em", width: "7em" }}
             />
           </div>
         </footer>
