@@ -1,0 +1,18 @@
+#rwr {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  border: 0;
+  border-radius: 0;
+}
+.ol-control {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.4) !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+}
+
+.ol-control button {
+  display: none !important;
+}

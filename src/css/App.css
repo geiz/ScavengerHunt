@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.App header {
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.App header h2 {
+}
+
+.App footer {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  width: auto;
+}
+
+.App footer .footerWrapper {
+  position: relative;
+  left: -50%;
+  width: auto;
+}
+
+.App footer p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+/*
+.App-report-button {
+  font-size: large;
+  color: white;
+  padding-top: 0.65em;
+  padding-bottom: 0.65em;
+  padding-left: 1.75em;
+  padding-right: 1.75em;
+  border-radius: 0.5em;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  background: #c9050f;
+}
+*/

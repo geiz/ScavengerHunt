@@ -1,0 +1,9 @@
+.formInputContainer {
+  padding-top: 3em;
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
+
+.formInputContainer input {
+  width: 85vw;
+}
